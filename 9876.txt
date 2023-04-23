@@ -1,0 +1,8 @@
+9876
+9876
+g2020@kfupm.edu.sa
+350.0
+the Online payment is active
+withdraw at Fri Dec  4 19:53:00 2020 by amount 160.0
+pay bill with name a and its number is 123 at Fri Dec  4 19:53:10 2020 by amount 40.0
+deposit at Fri Dec  4 19:53:18 2020 by amount 50.0
